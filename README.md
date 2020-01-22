@@ -14,6 +14,7 @@ $ pkg update upgrade
 $ pkg install python git
 $ git clone https://github.com/DH4CK1/Termux-Login
 $ cd Termux-Login
+```
 # [ Images ]
 Home-Login <br>
 <img src="Login2.jpg" /><br>
