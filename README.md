@@ -1,2 +1,1 @@
-<hr>
-###       Termux-Login
+### Termux-Login
