@@ -24,7 +24,7 @@ Home-bash: <br>
 
 # [ Thanks to]
 Mr.Tr3v!0n <br>
-https://github.com/Rusmana-ID
+https://github.com/Rusmana-ID <br>
 Black Coder Crush <br>
 https://github.com/Blackcodercrush
 # [ Note ]
