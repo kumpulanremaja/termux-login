@@ -17,9 +17,9 @@ $ cd Termux-Login
 ```
 # [ Images ]
 Home-Login <br>
-<img src="Login2.jpg" /><br>
+<img src="login2.jpg" /><br>
 Home-bash<br>
-<img src="" /><br>
+<img src="home.jpg" /><br>
 
 # [ Thanks to]
 Mr.Tr3v!0n <br>
